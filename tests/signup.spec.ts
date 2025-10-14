@@ -1,4 +1,3 @@
-// tests/signup.spec.ts
 import { test } from '@playwright/test';
 
 const BASE_URL = 'https://authorized-partner.netlify.app';
